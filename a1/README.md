@@ -14,6 +14,7 @@ After you have installed conda, close any open terminals you might have. Then op
  
     python -m ipykernel install --user --name cs224n
 
+### NOTE: If you cannot find this kernel in your IDE, then try to load the path by using "Python: select interpreter" (after you activate the environment, get the path of python by using "which python") 
 
 ## 4. Homework 1 (only) is a Jupyter Notebook. With the above done you should be able to get underway by typing:
 
